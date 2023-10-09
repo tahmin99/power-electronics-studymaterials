@@ -362,9 +362,31 @@ and Random Variables, Kalman Filter, Linear Quadratic Gaussian, Setpoint Trackin
 Control, Disturbance Rejection in LQ Control, Estimation with Disturbance Modeling, 
 ```
 
+## Some Additional `Model Predictive Control` Study Resources
+
+### MPC and MHE implementation in MATLAB using Casadi:
+* [Part I](https://www.youtube.com/watch?v=RrnkPrcpyEA)
+* [Part II](https://www.youtube.com/watch?v=UCyZUCp1Bvs)
+* [Part III](https://www.youtube.com/watch?v=HxxX7Uir2H8)
+
+### MPC Lecture Notes, Lecturer: M. Kvasnica
+
+
+
 ## MATLAB/Simulink
 
-### Dataset Links:
+### Advanced Control Loop in MATLAB/Simulink (Full YT Playllist):
+* [Investigation of the Direct Current Shunt Machine Properties Using MATLAB/Simulink](https://www.youtube.com/watch?v=6QrUewLeRlY&list=PLouCoK47-AT8CCBt2yuSIo6_RRfd_B_Us&index=1)
+* [Optimal speed Control of Direct Current Motor by using Matlab/Simulink](https://www.youtube.com/watch?v=rf8rH_ZRdAg&list=PLouCoK47-AT8CCBt2yuSIo6_RRfd_B_Us&index=2)
+* [DC motor State estimation with Luenberger Observer by using Matlab/Simulink](https://www.youtube.com/watch?v=UnGwm-2QYOw&list=PLouCoK47-AT8CCBt2yuSIo6_RRfd_B_Us&index=3)
+* [High Gain Observer introduction](https://www.youtube.com/watch?v=BWXfI25GRT0&list=PLouCoK47-AT8CCBt2yuSIo6_RRfd_B_Us&index=4)
+* [High Gain Observer - Updated](https://www.youtube.com/watch?v=47LAHlUWWAU&list=PLouCoK47-AT8CCBt2yuSIo6_RRfd_B_Us&index=5)
+* [Linear-Quadratic Regulator (LQR) - Kalman Filter design by using Matlab Simulink (Udemy)](https://www.youtube.com/watch?v=fSnM3HJymLo&list=PLouCoK47-AT8CCBt2yuSIo6_RRfd_B_Us&index=6)
+* [DC Machine speed luenberger observer design by using matlab simulink](https://www.youtube.com/watch?v=PMok6D8ye5I&list=PLouCoK47-AT8CCBt2yuSIo6_RRfd_B_Us&index=7)
+* [Integral action in state feedback control and State controller with setpoint adjustment](https://www.youtube.com/watch?v=Ti6vLWmD0Bg&list=PLouCoK47-AT8CCBt2yuSIo6_RRfd_B_Us&index=8)
+* [Computer Aided Control Systems Design: Control System Toolbox](https://www.youtube.com/watch?v=Uy93YUTs72k&list=PLouCoK47-AT8CCBt2yuSIo6_RRfd_B_Us&index=9)
+* [Interactive model analysis Linear System Analyzer app](https://www.youtube.com/watch?v=y2dvvhTDwo4&list=PLouCoK47-AT8CCBt2yuSIo6_RRfd_B_Us&index=10)
+
 
 
 <!---## Update-->
