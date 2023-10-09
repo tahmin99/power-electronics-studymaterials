@@ -30,7 +30,7 @@ Explore the repository here and embark on a journey of academic enrichment and s
 
 #Education #PowerElectronics #ControlTheory #Optimization #LearningMaterials
 
-## Courses
+## Courses w/ YT Playlist
 
 * Introduction to Power Electronics by Prof. Katherine A. Kim [Full YT Playlist [(click here)](https://www.youtube.com/playlist?list=PLmK1EnKxphinxBub5hL0ZoJXWoqjkGE19)]
 
@@ -263,7 +263,7 @@ nary Iterative Methods, Krylov Subspace Iterative Methods, Polar Decomposition.
 
 ```
 
-* Control Bootcamp by Prof. Steve Brunton (UofW) [Full YT Playlist [(click here)](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)] [Free PDF](http://databookuw.com/databook.pdf)
+* Control Bootcamp by Prof. Steve Brunton (UofW) [Full YT Playlist [(click here)](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)] | [Free PDF](http://databookuw.com/databook.pdf)
 
 ![e vehicles](/images/15.png)
 
@@ -279,7 +279,7 @@ vity and Complementary Sensitivity, Limitations of Robustness, Plant Dynamics, P
 Model Predictive Control.
 ```
 
-* Introduction to Control EE313 by Prof. Katherine A. Kim (UNIST) [Full YT Playlist [(click here)](https://www.youtube.com/playlist?list=PLmK1EnKxphikZ4mmCz2NccSnHZb7v1wV-)
+* Introduction to Control EE313 by Prof. Katherine A. Kim (UNIST) [Full YT Playlist [(click here)](https://www.youtube.com/playlist?list=PLmK1EnKxphikZ4mmCz2NccSnHZb7v1wV-)]
 
 ![control1](/images/16.png)
 
@@ -295,7 +295,7 @@ Value Theorem, Feedback Control in MATLAB, Root Locus, Frequency Response, Bode 
 Mapping, Nyquist Stability, Proportional Feedback Control, Finding Eigenvlaues in MATLAB.
 ```
 
-* Advanced Linear Control Continuous Systems by Prof. Yogesh Vijay Hote (IIT, Roorkee) [Full YT Playlist [(click here)](https://www.youtube.com/playlist?list=PLLy_2iUCG87CVglDEadTd_PRjA-g1KqVo)
+* Advanced Linear Control Continuous Systems by Prof. Yogesh Vijay Hote (IIT, Roorkee) [Full YT Playlist [(click here)](https://www.youtube.com/playlist?list=PLLy_2iUCG87CVglDEadTd_PRjA-g1KqVo)]
 
 ![control2](/images/17.png)
 
@@ -308,7 +308,7 @@ State Space System, State Transition Matrix, State Observer Design, Tracking Pro
 Feedback Design, Pole Placement by State Feedback, Observability in State Space.
 ```
 
-* Linear Algebra by Prof. Gilbert Strang (MIT 18.06SC Linear Algebra, Fall 2011) [Full YT Playlist [(click here)](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) [Full Course](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+* Linear Algebra by Prof. Gilbert Strang (MIT 18.06SC Linear Algebra, Fall 2011) [Full YT Playlist [(click here)](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)] |[Full Course](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 
 ![linear algebra](/images/20.png)
 
@@ -328,7 +328,7 @@ their Matrices Change of Basis; Image Compression Left and Right Inverses; Pseud
 ```
 
 
-* Differential Equations by Prof. Gilbert Strang & Prof. Cleve Moler (MIT RES.18-009 Learn Differential Equations, Fall 2015) [Full YT Playlist [(click here)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG) [Full Course](https://ocw.mit.edu/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/)
+* Differential Equations by Prof. Gilbert Strang & Prof. Cleve Moler (MIT RES.18-009 Learn Differential Equations, Fall 2015) [Full YT Playlist [(click here)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)] | [Full Course](https://ocw.mit.edu/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/)
 
 ![diff](/images/21.png)
 
@@ -338,7 +338,7 @@ Introduction, First Order Equations, Second Order Equations, Graphical and Numer
 Subspaces, Eigenvalues and Eigenvectors, Applied Mathematics and ATA Fourier, Laplace Transforms.
 ```
 
-* Introduction to PID Controller by Prof. Carlos Rossa (SYSC 3610, Biomedical Systems, Modeling and Control, Carleton University) [Full YT Video [(click here)](https://www.youtube.com/watch?v=-ySAtKoidog)
+* Introduction to PID Controller by Prof. Carlos Rossa (SYSC 3610, Biomedical Systems, Modeling and Control, Carleton University) [Full YT Video [(click here)](https://www.youtube.com/watch?v=-ySAtKoidog)]
 ![pid](/images/22.png)
 
 ```
@@ -347,7 +347,7 @@ Introduction, PID Controller, PID Controller Architecture, Closed Loop Controlle
 and Integral, PID Controller Effects, Proportional vs Integral Controller.
 ```
 
-* Model Predictive Control by Prof. Niket S. Kaisare (IIT, Madras) [Full YT Playlist [(click here)](https://www.youtube.com/playlist?list=PLyqSpQzTE6M91gU9WE5AOMhAkCf6HGbey)
+* Model Predictive Control by Prof. Niket S. Kaisare (IIT, Madras) [Full YT Playlist [(click here)](https://www.youtube.com/playlist?list=PLyqSpQzTE6M91gU9WE5AOMhAkCf6HGbey)]
 
 ![control3](/images/18.png)
 
@@ -362,7 +362,7 @@ and Random Variables, Kalman Filter, Linear Quadratic Gaussian, Setpoint Trackin
 Control, Disturbance Rejection in LQ Control, Estimation with Disturbance Modeling, 
 ```
 
-## Datasets
+## MATLAB/Simulink
 
 ### Dataset Links:
 
