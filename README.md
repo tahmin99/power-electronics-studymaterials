@@ -1,4 +1,4 @@
-# # Power Electronics, Control Theory, Model Predictive Control & Optimization Techniques
+# #Power Electronics, Control Theory, Model Predictive Control & Optimization Techniques
 ## Study Materials, Lecture Notes & Videos
 Welcome to this inclusive archive of educational materials and videos sourced from prestigious universities worldwide.
 
