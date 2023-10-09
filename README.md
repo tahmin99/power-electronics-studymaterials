@@ -372,7 +372,7 @@ Control, Disturbance Rejection in LQ Control, Estimation with Disturbance Modeli
 * [Part II](https://www.youtube.com/watch?v=UCyZUCp1Bvs)
 * [Part III](https://www.youtube.com/watch?v=HxxX7Uir2H8)
 
-### "Model Predictive Control in Power Electronics" by Dr. Tobias Greyer
+### Model Predictive Control in Power Electronics by Dr. Tobias Greyer
 * [Lecture I](https://www.youtube.com/watch?v=3K9t4Nqo92U)
 * [Lecture II](https://www.youtube.com/watch?v=B5gOHJkcBEc)
 
