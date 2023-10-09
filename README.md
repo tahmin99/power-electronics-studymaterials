@@ -362,18 +362,70 @@ and Random Variables, Kalman Filter, Linear Quadratic Gaussian, Setpoint Trackin
 Control, Disturbance Rejection in LQ Control, Estimation with Disturbance Modeling, 
 ```
 
-## Some Additional `Model Predictive Control` Study Resources
+## Some Additional `Model Predictive Control` Study Materials
+
+### A Lecture Series of Model Predictive Control by Dr. John Rossiter, University of Sheffield
+* [Full Video Series](https://www.youtube.com/playlist?list=PLs7mcKy_nInFEpygo_VrqDFCsQVnGaoy-)
 
 ### MPC and MHE implementation in MATLAB using Casadi:
 * [Part I](https://www.youtube.com/watch?v=RrnkPrcpyEA)
 * [Part II](https://www.youtube.com/watch?v=UCyZUCp1Bvs)
 * [Part III](https://www.youtube.com/watch?v=HxxX7Uir2H8)
 
-### MPC Lecture Notes, Lecturer: M. Kvasnica
+### "Model Predictive Control in Power Electronics" by Dr. Tobias Greyer
+* [Lecture I](https://www.youtube.com/watch?v=3K9t4Nqo92U)
+* [Lecture II](https://www.youtube.com/watch?v=B5gOHJkcBEc)
 
+### Model Predictive Control of Three Level Buck/Boost Converter for Bipolar DC Microgrid Applications by PhD Applicant Nisha K S
+* [Full Video](https://www.youtube.com/watch?v=9URWS8uRGPk)
+
+### Basic-Advanced MPC Lecture Notes, Lecturer: M. Kvasnica
+* [Click here](https://www.uiam.sk/index.php?menu=2&submenu=7&part=0&page_id=44)
+* [Free PDF](https://www.uiam.sk/assets/publication_info.php?id_pub=1865)
+
+### Model Predictive Control: from the Basics to Reinforcement Learning
+* [Free PDF](http://dysco.imtlucca.it/mpc-cdc19/) (files are located at the Bottom of this page)
+
+### Model Predictive Control by Alberto Bemporad
+* [Free PDF + Course Materials](http://cse.lab.imtlucca.it/~bemporad/mpc_course.html)
+
+### Getting Started with Model Predictive Control Toolbox via Mathworks
+* [MATLAB Resource](https://www.mathworks.com/help/mpc/getting-started-with-model-predictive-control-toolbox.html)
+
+### Model Predictive Control: Theory, Computation, and Design (2nd Edition)
+* [Free PDF](https://sites.engineering.ucsb.edu/~jbraw/mpc/)
+
+## Lecture Notes
+
+### Lecture notes for Basic Power Electronics by MIT OpenCourseWare
+*  [click here](https://ocw.mit.edu/courses/6-334-power-electronics-spring-2007/pages/lecture-notes/)
+
+### Lecture notes for Practical Electronics by MIT OpenCourseWare
+*  [click here](https://ocw.mit.edu/courses/ec-s06-practical-electronics-fall-2004/pages/lecture-notes/)
+
+### Lecture notes for Electronic Feedback System by MIT OpenCourseWare
+*  [click here](https://ocw.mit.edu/courses/res-6-010-electronic-feedback-systems-spring-2013/pages/video-course-manual/)
+
+### Lecture notes and recordings for ECE5570: Optimization for Systems and Control by UC Boulder
+* [click here](http://mocha-java.uccs.edu/ECE5570-NEW/index.html)
+
+### Lecture notes and recordings for ECE5550: Applied Kalman Filtering by UC Boulder
+* [click here](http://mocha-java.uccs.edu/ECE5550/index.html)
+
+### Lecture notes for Modern Approaches to System Dynamics and Control by CRAW Lab, University of Louisianna, Lafayette.
+* [click here](https://userweb.ucs.louisiana.edu/~jev9637/Kumoh_January2018.html)
+
+### Lecture notes for Electromagnetic Energy: From Motors To Lasers by MIT OpenCourseWare
+* [click here](https://ocw.mit.edu/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/pages/lecture-notes/)
+
+### Lecture notes for Microelectronic Devices And Circuits by MIT OpenCourseWare
+* [click here](https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2005/pages/lecture-notes/)
 
 
 ## MATLAB/Simulink
+
+### Code for Fast MPC 
+* [Full Code](https://stanford.edu/~boyd/fast_mpc/)
 
 ### Advanced Control Loop in MATLAB/Simulink (Full YT Playllist):
 * [Investigation of the Direct Current Shunt Machine Properties Using MATLAB/Simulink](https://www.youtube.com/watch?v=6QrUewLeRlY&list=PLouCoK47-AT8CCBt2yuSIo6_RRfd_B_Us&index=1)
@@ -386,8 +438,6 @@ Control, Disturbance Rejection in LQ Control, Estimation with Disturbance Modeli
 * [Integral action in state feedback control and State controller with setpoint adjustment](https://www.youtube.com/watch?v=Ti6vLWmD0Bg&list=PLouCoK47-AT8CCBt2yuSIo6_RRfd_B_Us&index=8)
 * [Computer Aided Control Systems Design: Control System Toolbox](https://www.youtube.com/watch?v=Uy93YUTs72k&list=PLouCoK47-AT8CCBt2yuSIo6_RRfd_B_Us&index=9)
 * [Interactive model analysis Linear System Analyzer app](https://www.youtube.com/watch?v=y2dvvhTDwo4&list=PLouCoK47-AT8CCBt2yuSIo6_RRfd_B_Us&index=10)
-
-
 
 <!---## Update-->
 
