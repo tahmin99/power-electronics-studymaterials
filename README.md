@@ -308,7 +308,7 @@ State Space System, State Transition Matrix, State Observer Design, Tracking Pro
 Feedback Design, Pole Placement by State Feedback, Observability in State Space.
 ```
 
-* Linear Algebra by Prof. Gilbert Strang (MIT 18.06SC Linear Algebra, Fall 2011) [Full YT Playlist [(click here)](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)] |[Full Course](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
+* Linear Algebra by Prof. Gilbert Strang (MIT 18.06SC Linear Algebra, Fall 2011) [Full YT Playlist [(click here)](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)] | [Full Course](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 
 ![linear algebra](/images/20.png)
 
